@@ -4,10 +4,9 @@ layout: default
 
 ![avatar](avatar.jpg)
 
-# Kirby
+# Silva
 
-A Nintendo Character
-
+data editor
 - - -
 
 ### about
