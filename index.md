@@ -11,12 +11,13 @@ data editor
 
 ### about
 
-Kirby (カービィ Kābī?) is a fictional character and the titular protagonist of the Kirby series of video games owned by Nintendo and HAL Laboratory. As one of Nintendo's most famous and familiar icons, Kirby's round appearance and ability to copy his foes' powers has made him a well known figure in video games, consistently ranked as one of the most iconic video game characters. 
+The roots of Hacks/Hackers were planted in 2009, co-founded by Aron Pilhofer of The New York Times, Rich Gordon from Northwestern University’s Medill School of Journalism, Burt Herman, a former AP foreign correspondent fresh from a Knight journalism fellowship at Stanford University. Hacks/Hackers grew from an initial chapter in the Bay Area in late 2009 to flourishing chapters in New York, Boston, Austin and other cities during 2010. Hacks/Hackers has also gone international, with chapters launching in Latin America, Europe, Australia and Asia.
+
+Hacks/Hackers’ mission is to create a network of journalists (“hacks”) and technologists (“hackers”) who rethink the future of news and information.
 
 ### Links
 
- * [11 amazing Kirby facts and secrets](http://www.officialnintendomagazine.co.uk/41729/11-amazing-kirby-facts-and-secrets/)
- * [How did your favourite Nintendo characters get their names?](http://www.officialnintendomagazine.co.uk/42153/how-did-mario-get-his-name-and-the-origins-of-your-favourite-nintendo-stars/?page=6)
- * [Why is Kirby always angry in the US? Nintendo explains](http://www.gamespot.com/articles/why-is-kirby-always-angry-in-the-us-nintendo-explains/1100-6419263/)
+ * [Hacks/Hackers](http://www.hackshackers.com)
+ * [Hacks/Hackers Taipei](http://hackshackers.taipei/about.html)
 
 - - -
